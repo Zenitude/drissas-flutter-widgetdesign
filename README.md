@@ -1,4 +1,4 @@
-# [Driss AS](https://drissas.com/) - [Flutter Revolution](https://formation.drissas.com/flutter-revolution/) - widgetdesign
+# [Driss AS](https://drissas.com/) - [Flutter Revolution](https://formation.drissas.com/flutter-revolution/) - Widget Design
 
 A new Flutter project.
 
